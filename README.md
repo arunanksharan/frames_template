@@ -1,7 +1,9 @@
 # frames_template
+
 A generic template for all the components required to build Farcaster Frames App
 
 Scaffolding a frames app for Farcaster became repetitive since it required similar components:
+
 1. APIs
 2. Config
 3. Images and Satori
